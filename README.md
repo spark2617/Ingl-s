@@ -8,7 +8,8 @@ Meu caderno de inglês. Cada assunto fica em um arquivo.
 |---|---|
 | 01 | [Números](01-numeros.md) |
 | 02 | [Frutas](02-frutas.md) |
-| 03 | [Verbo to be](03-verbo-to-be.md) |
+| 03 | [Eletrodomésticos](03-eletrodomesticos.md) |
+| 04 | [Verbo to be](04-verbo-to-be.md) |
 
 ## 🗣️ Como ler a pronúncia
 
